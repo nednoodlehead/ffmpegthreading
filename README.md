@@ -5,7 +5,7 @@ To reproduce a bug to do with compiling a python script and ffmpeg
 
 2). pip install: (pydub, simpleaudio)
 
-2.1). Install ffmpeg and add the folder path to your system variables (http://ffmpeg.org/ for download) (should end in '/ffmpeg/bin')
+2.1). Install ffmpeg and add the folder path to your system variables (http://ffmpeg.org/ for download) (path varibale should end in '/ffmpeg/bin')
 
 3). Verify that script it works inside of IDE, run main.py and click the buttons (mind that the bottom button will play a song very loudly
 
